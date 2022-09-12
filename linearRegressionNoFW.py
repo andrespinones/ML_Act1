@@ -4,8 +4,6 @@
 #importamos las librerias necesarias
 import pandas as pd
 import numpy as np
-import math
-import operator
 
 def linearRegression(csv):
   # leemos el archivo de datos csv utilizando pandas dataframe
